@@ -4,7 +4,7 @@
 [![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
 [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?maxAge=2592000)]()
 
-Weather App written in Objective-C, covers various topics like User location, Weather API, JSON Parsing.
+Simple iOS Application which detects current weather condition as per user location. ☁️ ☂ ⛅ 🌞 ☔.
 
 
 # Contents
@@ -34,6 +34,9 @@ Weather App written in Objective-C, covers various topics like User location, We
 $ git clone https://github.com/aashishtamsya/Weather-App.git 
 ```
 
+> **CAUTION**
+>
+> The API Key is not valid, please visit [here](http://openweathermap.org/api) and [generate a API Key](http://openweathermap.org/appid).
 ## Contribution
 
 1. Fork it!
